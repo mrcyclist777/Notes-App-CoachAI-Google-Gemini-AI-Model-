@@ -1,4 +1,5 @@
-# Notes App
+# Notes App CoachAI Google Gemini AI Model
+
 This application will help you manage your notes. Fullstack application connected backend and frontend connected with AI
 
 # Project Name
@@ -39,7 +40,6 @@ This application will help you manage your notes. Fullstack application connecte
 ![Example - Desktop Design](./screenshots/desktop-design-3.png)
 ![Example - Desktop Design](./screenshots/desktop-design-4.png)
 ![Example - Mobile Design](./screenshots/mobile-design-1.png)
-![Example - Mobile Design](./screenshots/mobile-design-2.png)
 ![Example - Mobile Design](./screenshots/mobile-design-3.png)
 ![Example - Mobile Design](./screenshots/mobile-design-4.png)
 
